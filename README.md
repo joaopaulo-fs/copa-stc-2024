@@ -62,16 +62,18 @@ Você pode visualizar o projeto funcionando diretamente pelo **GitHub Pages**:
 
 ## 🎥 Preview
 
-https://github.com/user-attachments/assets/1aa99bf8-2818-4392-847c-80265e17ca27
+https://github.com/user-attachments/assets/26c81a14-bcb4-4aeb-ba39-9891001cb2c2
+
 
 ---
+
 
 ## 🖥️ Como usar
 
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/joaopaulo-io/copa-stc-2024.git
+git clone https://github.com/joaopaulo-fs/copa-stc-2024.git
 ```
 
 2. Abra o arquivo **index.html** no navegador.
